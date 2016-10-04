@@ -1,0 +1,27 @@
+object TStyleContainer
+  object TLayout
+    StyleName = '::freehand::rcp::title'
+    Position.X = 480.000000000000000000
+    Position.Y = 471.000000000000000000
+    Size.Width = 200.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object TRectangle
+      StyleName = 'background'
+      Align = Client
+      HitTest = False
+      Size.Width = 200.000000000000000000
+      Size.Height = 25.000000000000000000
+      Size.PlatformDefault = False
+      object TText
+        StyleName = 'text'
+        Align = Client
+        Size.Width = 200.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Trimming = Character
+      end
+    end
+  end
+end

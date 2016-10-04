@@ -5,7 +5,7 @@ Trying analyzing Sony 700 PTP Protocol
 
 * Sony RCP-1500 Emulator<br>
 * Sony CNA-1 Emulator<br>
-* Development environment - Delphi XE10.1<br>
+* Development environment - Delphi XE 10.1<br>
 
 <b>Created by:</b>
 ```
